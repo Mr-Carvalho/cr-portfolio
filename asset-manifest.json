@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/cr-portfolio/static/css/main.b04d9200.css",
+    "main.js": "/cr-portfolio/static/js/main.ece13da2.js",
+    "static/media/0_Preview.JPG": "/cr-portfolio/static/media/0_Preview.ff2291747034fb16a06e.JPG",
+    "static/media/10 (editada).jpg": "/cr-portfolio/static/media/10 (editada).974c5393803eee654a5c.jpg",
+    "static/media/1 (editada).jpg": "/cr-portfolio/static/media/1 (editada).c7fae49d8efef335b69c.jpg",
+    "static/media/9 (editada).jpg": "/cr-portfolio/static/media/9 (editada).e041bc8137c74ed6e185.jpg",
+    "static/media/14.jpg": "/cr-portfolio/static/media/14.e3ba432b869931b6a1d2.jpg",
+    "static/media/9.JPG": "/cr-portfolio/static/media/9.c352b90498a159eca638.JPG",
+    "static/media/1 (editada - preto).jpg": "/cr-portfolio/static/media/1 (editada - preto).692dc88df468bec352c8.jpg",
+    "static/media/vera-martins.png": "/cr-portfolio/static/media/vera-martins.f7cdcc15a38f9b28af21.png",
+    "index.html": "/cr-portfolio/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.b04d9200.css",
+    "static/js/main.ece13da2.js"
+  ]
+}
